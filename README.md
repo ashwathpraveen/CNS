@@ -1,7 +1,8 @@
 ## EX. NO: 1 : IMPLEMENTATION OF CAESAR CIPHER
- Name:Ashwath p ```
+ ```
+ Name:Ashwath p
  regno:212224220012
-
+```
 ## AIM:
 
 To implement the simple substitution technique named Caesar cipher using C language.
